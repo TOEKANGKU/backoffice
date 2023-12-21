@@ -30,7 +30,7 @@ Start the local development server
 You can now access the application at http://localhost:8080
 
 
-## Build for Production seeding
+## Build for Production
 
 Run to build for production
 
